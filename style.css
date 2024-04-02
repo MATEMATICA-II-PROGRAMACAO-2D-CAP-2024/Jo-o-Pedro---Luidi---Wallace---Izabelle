@@ -9,10 +9,6 @@
     width: 20%;
 }
 
-.cabecalho{
-     display: flex;
-}
-
 .cabecalho-lista-item{
    display: inline-block;
    margin: 0 16px;
@@ -33,8 +29,13 @@
     width: 35%;
 }
 
-.escola=titulo{
-    padding:24px
+.escola-titulo{
+    padding:24px 0;
+}
+
+body{
+    font-family : 'Poppins', sans-serif
+}
 
 
 
