@@ -55,7 +55,7 @@ body {
 }
 
 .estudante-todos{ 
-    display: grip; 
-    grid-template-columns: 20% 20% 20% 20%;
+    display: grid; 
+    grid-template-columns: 20% 20% 20% 20% 20%;
 
 }
